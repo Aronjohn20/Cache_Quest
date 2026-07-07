@@ -1,0 +1,20 @@
+{
+  "name": "cache-quest-round2",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Cache Quest - Round 2: Cache Selection. A CSI technical event prototype simulating cache-memory selection.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.1"
+  }
+}
